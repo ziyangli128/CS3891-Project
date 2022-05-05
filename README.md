@@ -21,3 +21,6 @@
 	4. In a new terminal tab, cd to the examples folder, run: python crtk_ros_based_control.py
 
 ## Video Demo
+<p align="center">
+<img src="Demo.mov">
+</p>
