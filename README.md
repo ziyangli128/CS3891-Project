@@ -1,8 +1,8 @@
 # CS3891-Project
 
-Members: Ziyang Li, Ericka Liu, Xinyu Niu
+## Members: Ziyang Li, Ericka Liu, Xinyu Niu
 
-Modified Files:
+## Modified Files:
 
 	1. surgical_robotics_challenge/scripts/surgical_robotics_challenge/launch_crtk_interface.py
   
@@ -10,7 +10,7 @@ Modified Files:
   
 	3. surgical_robotics_challenge/scripts/surgical_robotics_challenge/examples/crtk_ros_based_control.py
 
-Instruction on Code Executing
+## Instruction on Code Executing
 	
 	1. roscore
   
