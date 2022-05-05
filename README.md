@@ -36,5 +36,5 @@ python crtk_ros_based_control.py
 
 ## Video Demo
 <p align="center">
-<img src="Demo.mov">
+<img src="Demo.gif">
 </p>
