@@ -19,3 +19,5 @@
 	3. In a new terminal tab, cd to the surgical_robotics_challenge/scripts/surgical_robotics_challenge folder, run: python launch_crtk_interface.py
   
 	4. In a new terminal tab, cd to the examples folder, run: python crtk_ros_based_control.py
+
+## Video Demo
